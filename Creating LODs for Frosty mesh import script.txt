@@ -15,4 +15,4 @@ For me I do as so
 LOD1 = 0.8
 LOD2 = 0.7
 LOD3 = 0.6
-LOD4 = 0.6
+LOD4 = 0.5
